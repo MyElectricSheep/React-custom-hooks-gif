@@ -1,2 +1,3 @@
 # custom-hooks-gif
-Created with CodeSandbox
+
+Repo for demonstrating custom hooks usage in React
