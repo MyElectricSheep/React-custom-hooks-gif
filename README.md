@@ -1,3 +1,3 @@
-# custom-hooks-gif
+# React Custom Hooks - Gif retriever
 
-Repo for demonstrating custom hooks usage in React
+A simple repo made for demonstrating custom hooks usage in React
